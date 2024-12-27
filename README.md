@@ -1,4 +1,4 @@
-# SRXNYH
+# 实人虚拟演化
 ## 输入图片
 ![input_img](https://github.com/user-attachments/assets/42fb5dec-2837-4f59-985b-bc2a22899728)
 ## 输入视频
